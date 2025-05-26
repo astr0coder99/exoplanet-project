@@ -10,7 +10,7 @@ This project analyzes data from the NASA Exoplanet Archive to explore confirmed 
 
 ## How to Use
 1. Clone this repository or download the ZIP
-2 Open the (`Nasa_Dataset_Filtered_(3004_planets).ipynb`) notebook using Jupyter Notebook or [Google Colab](https://colab.research.google.com/)
+2. Open the (`Nasa_Dataset_Filtered_(3004_planets).ipynb`) notebook using Jupyter Notebook or [Google Colab](https://colab.research.google.com/)
 3. Run the cells to explore the data and analysis
 
 ## Data Source
