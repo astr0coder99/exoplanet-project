@@ -20,10 +20,6 @@ The dataset is sourced from the NASA Exoplanet Archive. A cleaned and filtered v
 2. Open the `exoplanet_analysis.ipynb` notebook using Jupyter or [Google Colab](https://colab.research.google.com/)
 3. Run the cells to explore the data and analysis
 
-## License
-This project is licensed under the MIT License. # Exoplanet Project
-
-This project analyzes data from the NASA Exoplanet Archive to explore confirmed exoplanets and their properties.
 
 ## Project Goals
 - Load and clean exoplanet data using Python
