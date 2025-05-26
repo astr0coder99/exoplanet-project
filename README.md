@@ -9,7 +9,7 @@ Analyze data from the NASA Exoplanet Archive to explore confirmed exoplanets and
 
 -Investigate how key features like planet size, orbit length, and other factors relate to habitability.
 
--Gain hands-on experience in data science and astronomy by working with real data and applying machine learning.
+-Gain hands-on experience in data science and astronomy by working with real data.
 
 ## How to Use
 1. Clone this repository or download the ZIP
