@@ -6,7 +6,7 @@ This project analyzes data from the NASA Exoplanet Archive to explore confirmed 
 - Load and clean exoplanet data using Python
 - Perform exploratory data analysis to identify patterns and trends
 - Visualize key exoplanet characteristics such as size, orbital period, and habitability factors
-- Apply basic machine learning techniques to classify or predict exoplanet features (planned future work)
+- Apply basic machine learning techniques to classify or predict exoplanet features
 
 ## Data Source
 The dataset is sourced from the NASA Exoplanet Archive. A cleaned and filtered version (`Nasa Dataset (1).csv`) is included in this repository.
