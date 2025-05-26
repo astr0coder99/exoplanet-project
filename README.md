@@ -15,7 +15,7 @@ This project analyzes data from the NASA Exoplanet Archive to explore confirmed 
 
 ## Data Source
 The dataset is sourced from the [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/).  
-A cleaned and filtered version (`Nasa Dataset (1).csv`) is included in this repository.
+A cleaned and filtered version (`filtered_exoplanets.csv`) is included in this repository.
 
 ## Tools & Technologies
 - Python (pandas, matplotlib, seaborn, numpy)
