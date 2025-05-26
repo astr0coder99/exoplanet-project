@@ -3,11 +3,11 @@
 Analyze data from the NASA Exoplanet Archive to explore confirmed exoplanets and their properties.
 
 ## Project Goals
--Use Python to load and clean exoplanet data, getting it ready for analysis.
+-Use Python to clean and organize exoplanet data for analysis.
 
--Look for patterns and trends that might help explain how planets form or behave in other solar systems.
+-Look for patterns and trends that could help explain how planets form or behave in other solar systems.
 
--Demonstrate how key features like planet size, orbit length, and other factors relate to habitability.
+-Investigate how key features like planet size, orbit length, and other factors relate to habitability.
 
 -Gain hands-on experience in data science and astronomy by working with real data and applying machine learning.
 
