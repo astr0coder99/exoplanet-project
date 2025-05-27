@@ -33,6 +33,7 @@ Each planet is scored from 0 to 10, with the baseline of Earth being 10 and cate
 - High Habitability (8–10)
 - Moderate Habitability (6–8)
 - Low Habitability (<6)
+
 After scoring, the top 100 planets are selected and ranked by habitability.
 
 ## Tools & Technologies
