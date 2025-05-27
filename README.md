@@ -18,7 +18,7 @@ Analyze data from the NASA Exoplanet Archive to explore confirmed exoplanets and
 
 ## Data Source
 The dataset is sourced from the [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/).  
-A cleaned and filtered version, with the data that is the most relevant (`Nasa_Dataset_Filtered_(3003_planets).csv`) is included in this repository.
+A cleaned and filtered version (`Nasa_Dataset_Filtered_(3003_planets).csv`) is included in this repository which contains ~3,000 planets selected for having valid and relevant features used in the habitability scoring system.
 
 ## Habitability Scoring
 This project calculates a habitability score for each planet based on a custom formula using available features like:
