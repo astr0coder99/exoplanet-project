@@ -13,12 +13,12 @@ Analyze data from the NASA Exoplanet Archive to explore confirmed exoplanets and
 
 ## How to Use
 1. Clone this repository or download the ZIP
-2. Open the (`Nasa_Dataset_Filtered_(3004_planets).ipynb`) notebook using [Jupyter Notebook](https://jupyter.org/) or [Google Colab](https://colab.research.google.com/)
+2. Open the (`Nasa_Dataset_Filtered_(3003_planets).ipynb`) notebook using [Jupyter Notebook](https://jupyter.org/) or [Google Colab](https://colab.research.google.com/)
 3. Run the cells to explore the data and analysis
 
 ## Data Source
 The dataset is sourced from the [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/).  
-A cleaned and filtered version (`filtered_exoplanets.csv`) is included in this repository.
+A cleaned and filtered version, with the data that is the most relevant (`Nasa_Dataset_Filtered_(3003_planets).csv`) is included in this repository.
 
 ## Habitability Scoring
 This project calculates a habitability score for each planet based on a custom formula using available features like:
