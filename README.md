@@ -22,11 +22,12 @@ A cleaned and filtered version (`filtered_exoplanets.csv`) is included in this r
 
 ## Habitability Scoring
 This project calculates a habitability score for each planet based on a custom formula using available features like:
-- Orbital period
-- Planet radius
-- Equilibrium and Surface temperature
-- Stellar insolation
-- Eccentricity and mass (when available)
+- Orbital period (10% of the score)
+- Planet radius (25% of the score)
+- Equilibrium Temperature (15% of the score)
+- Surface temperature (15% of the score)
+- Stellar insolation (25% of the score)
+- Eccentricity and mass (when available) (10% of the score)
 
 Each planet is scored from 0 to 10, with the baseline of Earth being 10 and categorized as:
 - High Habitability (8–10)
