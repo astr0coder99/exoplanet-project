@@ -27,6 +27,7 @@ This project calculates a habitability score for each planet based on a custom f
 - Equilibrium and Surface temperature
 - Stellar insolation
 - Eccentricity and mass (when available)
+
 Each planet is scored from 0 to 10, with the baseline of Earth being 10 and categorized as:
 - High Habitability (8–10)
 - Moderate Habitability (6–8)
