@@ -1,4 +1,4 @@
-# Exoplanet Project
+# 100 Worlds Beyond Our Sun: A Data-Driven Search for Earth 2.0
 
 Analyze data from the NASA Exoplanet Archive to explore confirmed exoplanets and their properties.
 
