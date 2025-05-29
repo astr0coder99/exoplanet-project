@@ -1,6 +1,6 @@
 # 100 Worlds Beyond Our Sun: A Data-Driven Search for Earth 2.0
 
-Analyze data from the NASA Exoplanet Archive to explore confirmed exoplanets and their properties.
+This project analyzes over 38,000 confirmed and candidate exoplanets from NASA's Exoplanet Archive to identify the top 100 potentially habitable worlds. Using Python for data cleaning, filtering, and statistical analysis, the study focuses on key habitability criteria such as orbital period, planet radius, equilibrium temperature, surface temperature, and stellar insolation.
 
 ## Project Goals
 -Use Python to clean and organize exoplanet data for analysis.
