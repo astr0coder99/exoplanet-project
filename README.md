@@ -1,5 +1,5 @@
 # 100 Worlds Beyond Our Sun: A Data-Driven Search for Earth 2.0
-[View the full paper (PDF)]([https://docs.google.com/document/d/1UE0BB_rskslXQnqsLqtzHXGmXGiivyza0-fCwb8TW9M/edit?tab=t.0](https://docs.google.com/document/d/1XKGFvfE10PIxwrCCK9Y6ZblqsriZ1LJZQ7Qx5VETXik/edit?tab=t.0#heading=h.gjdgxs))
+[View the full paper (PDF)](https://docs.google.com/document/d/1UE0BB_rskslXQnqsLqtzHXGmXGiivyza0-fCwb8TW9M/edit?tab=t.0](https://docs.google.com/document/d/1XKGFvfE10PIxwrCCK9Y6ZblqsriZ1LJZQ7Qx5VETXik/edit?tab=t.0#heading=h.gjdgxs))
 
 This project analyzes over 38,000 confirmed and candidate exoplanets from NASA's Exoplanet Archive to identify the top 100 potentially habitable worlds. Using Python for data cleaning, filtering, and statistical analysis, the study focuses on key habitability criteria such as orbital period, planet radius, equilibrium temperature, surface temperature, and stellar insolation.
 
