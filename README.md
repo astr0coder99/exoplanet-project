@@ -1,4 +1,5 @@
 # 100 Worlds Beyond Our Sun: A Data-Driven Search for Earth 2.0
+[View the full paper (PDF)]([https://drive.google.com/your_shared_link_here](https://docs.google.com/document/d/1UE0BB_rskslXQnqsLqtzHXGmXGiivyza0-fCwb8TW9M/edit?tab=t.0))
 
 This project analyzes over 38,000 confirmed and candidate exoplanets from NASA's Exoplanet Archive to identify the top 100 potentially habitable worlds. Using Python for data cleaning, filtering, and statistical analysis, the study focuses on key habitability criteria such as orbital period, planet radius, equilibrium temperature, surface temperature, and stellar insolation.
 
@@ -23,17 +24,16 @@ This project analyzes over 38,000 confirmed and candidate exoplanets from NASA's
 
 ## Habitability Scoring
 This project calculates a habitability score for each planet based on a custom formula using available features like:
-- Orbital period (10% of the score)
+- Orbital period (20% of the score)
 - Planet radius (25% of the score)
-- Equilibrium Temperature (15% of the score)
-- Surface temperature (15% of the score)
+- Temperature-Equillibrium and surface combined (10% of the score)
 - Stellar insolation (25% of the score)
-- Eccentricity and mass (when available) (10% of the score)
+- Eccentricity and mass (20% of the score)
 
 Each planet is scored from 0 to 10, with the baseline of Earth being 10 and categorized as:
-- High Habitability (8–10)
-- Moderate Habitability (6–8)
-- Low Habitability (<6)
+- High Habitability (7–10)
+- Moderate Habitability (4–6.9)
+- Low Habitability (<4)
 
 After scoring, the top 100 planets are selected and ranked by habitability.
 
