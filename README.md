@@ -7,7 +7,7 @@ This project analyzes over 38,000 confirmed and candidate exoplanets from NASA's
 
 -Search for patterns and trends that could help explain how planets form or behave in other solar systems.
 
--Investigate how key features like planet size, equillibrium temperature, and other factors relate to habitability.
+-Investigate how key features like planet size, equilibrium temperature, and other factors relate to habitability.
 
 -Gain hands-on experience in data analysis and astronomy by working with real data.
 
@@ -25,7 +25,7 @@ This project analyzes over 38,000 confirmed and candidate exoplanets from NASA's
 This project calculates a habitability score for each planet based on a custom formula using available features like:
 - Planet Mass (20% of the score)
 - Planet radius (20% of the score)
-- Equillibrium Temperature (30% of the score)
+- Equilibrium Temperature (30% of the score)
 - Stellar insolation (18% of the score)
 - Tidal-Locking (12% of the score)
 
